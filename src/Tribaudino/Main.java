@@ -7,5 +7,6 @@ public class Main {
 	System.out.println("Myself");
 	System.out.println("Hello Johnathan, My name is Jadyn");
 	System.out.println("Hello guys");
+	System.out.println("Hello, Johnathan and Jadyn, My name is Case. I use periods.");
     }
 }
